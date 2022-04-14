@@ -1,0 +1,105 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body {
+	background-image: url("../img/bapp.jpg");
+	background: #778899;
+	background-size: cover;
+	color: #100b12;
+}
+
+.botones {
+
+list-style: none;
+padding: 0;
+background:#2al1d51ff;
+width:100% ;
+margin:auto;
+text-align-last:center;
+background-color:red
+}
+
+.botones li a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+	text-align: center;
+}
+.botones li {
+	display: inline-block;
+	text-align: center;
+}
+
+.botones li a:hover {
+	background: black;
+}
+.logo {
+	color: white;
+	font-size: 40px;
+	line-height: 58px;
+	padding:0 00px;
+	font-weight: lighter;
+	  position: absolute;
+     left: 1260px;
+     top: 60px;
+	animation: 0.2s;
+    
+
+}
+
+
+.Fila1{
+	background:none;
+	margin-top: 2%;
+	margin-bottom: 5%;
+	width:auto;
+}
+
+.Fila2{
+	background:none;
+	margin-top: 2%;
+	width:auto;
+}
+
+.columna1{
+	margin-left: 2%;
+	float: left;
+}
+
+.columna2{
+	margin-left: 2%;
+	float: left; 
+}
+.columna3{
+	margin-left: 2%;
+	float: left; 
+}
+
+.pies
+{
+	list-style: none;
+padding: 0;
+background:#2al1d51ff;
+width:100% ;
+margin:auto;
+text-align-last:center;
+background-color:red
+}
+
+.pies li a {
+	text-decoration: none;
+	color:white;
+	padding: 20px;
+	display: block;
+	text-align: center;
+}
+.pies li {
+	display: inline-block;
+	text-align: center;
+}
+
+.pies  li a:hover {
+	background: black;
+}
